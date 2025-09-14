@@ -1,1 +1,1 @@
-The section contain following projects :
+The section contain capston projects related to the curriculam of the course.
