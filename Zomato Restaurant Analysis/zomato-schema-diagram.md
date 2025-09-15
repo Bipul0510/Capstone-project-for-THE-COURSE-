@@ -7,9 +7,9 @@
 │         COUNTRY_CODE            │         │                    ZOMATO_DATASET                          │
 ├─────────────────────────────────┤         ├────────────────────────────────────────────────────────────┤
 │ Country Code (PK) │ INT         │◄────────┤ CountryCode (FK)        │ INT                              │
-│ Country           │ VARCHAR(50) │         │ RestaurantID (PK)       │ INT                              │
-└─────────────────────────────────┘         │ RestaurantName          │ VARCHAR(255)                     │
-                                            │ City                    │ VARCHAR(100)                     │
+│ Country           │ VARCHAR(30) │         │ RestaurantID (PK)       │ INT                              │
+└─────────────────────────────────┘         │ RestaurantName          │ VARCHAR(100)                     │
+                                            │ City                    │ VARCHAR(50)                     │
                                             │ Address                 │ TEXT                             │
                                             │ Locality                │ TEXT                             │
                                             │ LocalityVerbose         │ TEXT                             │
