@@ -1,0 +1,64 @@
+
+    ## PowerPoint Presentation Outline
+    
+    Slide 1: Title Slide
+    * **Title:** Restaurant Analysis 2025: Student Consumer Insights
+    * **Subtitle:** Unlocking Growth Through Data-Driven Cuisine Strategy
+    * **Presenter:** [Your Name]
+    * **Date:** [Date]
+    
+    Slide 2: Executive Summary
+        Key Findings:
+        * Top 5 highly-rated cuisines by students are [List Top 5 Cuisines].
+        * Average ratings for these cuisines range from [Min Rating] to [Max Rating].
+        * Recommendation: Focus on [Top Cuisine] and [Second Cuisine] for targeted
+          marketing and menu development.
+    
+    Slide 3: Problem Statement & Objective
+        Problem: Identify the most popular and highly-rated restaurant cuisines among
+                 students.
+        Objective: Provide actionable, data-driven insights to guide business strategy,   
+                   including menu planning and marketing campaigns.
+    
+    Slide 4: Data Sources & Methodology
+          Data Sources:
+        * `consumers.csv` (Demographics)
+        * `ratings.csv` (Consumer ratings)
+        * `restaurant_cuisines.csv` (Cuisine mapping)
+
+        Methodology:
+        * Combined data from three sources using SQL joins.
+        * Filtered for consumers with 'Student' occupation.
+        * Calculated the average `Overall_Rating` for each cuisine.
+        * Ranked and selected the top 5 cuisines.
+    
+    Slide 5: Key Finding 1: The Top-Rated Cuisines
+        Visual: Bar chart of the Top 5 Cuisines by Average Overall Rating.
+        Discussion Points:
+        * Present the rankings and average ratings.
+        * Highlight the top performer and its significance.
+        * Compare the performance of the top cuisines.
+    
+    Slide 6: Key Finding 2: Rating Distribution
+        Visual: Pie chart showing the distribution of `Overall_Rating` (0, 1, 2) for the 
+                top 5 cuisines.
+        Discussion Points:
+        * Explain what a high proportion of '2' ratings indicates (strong satisfaction).
+        * Analyze any differences in rating distribution among the top cuisines.
+    
+    Slide 7: Strategic Recommendations
+
+        1. Marketing Strategy: Launch targeted digital marketing campaigns highlighting the 
+           top 5 cuisines to the student demographic.
+
+        2. Menu & Concept Development: Expand menu offerings or develop new restaurant 
+           concepts around the top-rated cuisines.
+
+        3. Location & Expansion: Use location data from the `consumers` table to identify 
+           cities with high student populations and strong preferences for the top 
+           cuisines.
+    
+    Slide 8: Q&A
+      Open for questions.
+      Thank you.
+    
