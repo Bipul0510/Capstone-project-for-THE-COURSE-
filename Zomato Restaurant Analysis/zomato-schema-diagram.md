@@ -1,6 +1,6 @@
 # Zomato Database Schema Diagram
 
-## Table Relationships
+### Table Relationships
 
 ```
 ┌─────────────────────────────────┐         ┌────────────────────────────────────────────────────────────┐
