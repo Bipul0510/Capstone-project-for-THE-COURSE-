@@ -1,4 +1,4 @@
-## The section contain capston projects related to the curriculam of the course.
+### The section contain capston projects related to the curriculam of the course.
 
 List of Projects:
 * Inventory Management analysis
