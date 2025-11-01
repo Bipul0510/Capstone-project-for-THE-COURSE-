@@ -1,4 +1,4 @@
-SQL Problem and Solution Examples--
+# SQL Problem and Solution Examples--
 
 Here are some examples of the types of problems and solutions you will find in the generated SQL file:
 
@@ -10,5 +10,6 @@ Solution: A query that joins the ratings and restaurants tables, then uses a HAV
 
 Problem: Find consumers who have rated more than one type of cuisine.
 Solution: A query that joins consumers, ratings, and restaurant_cuisines tables and uses COUNT(DISTINCT rc.Cuisine) to count the number of unique cuisines rated by each consumer, filtering for those with a count greater than one.
+
 
 These queries, along with the other 12 in the file, will provide a robust foundation for the "Restaurant Analysis 2025" project.
