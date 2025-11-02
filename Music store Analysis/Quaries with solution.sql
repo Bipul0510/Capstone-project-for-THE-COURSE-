@@ -4,7 +4,7 @@ CREATE DATABASE MSTORE ;
 -- Load the dataset
 USE MSTORE ;
 
--- IMPORT CSV USING THE TABLE IMPORT WIZARD
+-- Import csv using the table import wizard
 
 select * from album
 select * from artist
