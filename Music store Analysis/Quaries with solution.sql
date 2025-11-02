@@ -1,7 +1,7 @@
 -- Create the database
 CREATE DATABASE MSTORE ;
 
--- ACCESS THE DATABASE
+-- Load the dataset
 USE MSTORE ;
 
 -- IMPORT CSV USING THE TABLE IMPORT WIZARD
