@@ -1,4 +1,4 @@
--- CREATE DATABASE
+-- Create the database
 CREATE DATABASE MSTORE ;
 
 -- ACCESS THE DATABASE
