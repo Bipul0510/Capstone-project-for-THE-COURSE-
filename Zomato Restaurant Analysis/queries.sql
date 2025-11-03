@@ -9,7 +9,7 @@ USE ZOMATO
 
 -- Explore the imported data
 -- Restaurant data
-select * from zomato_dataset ;
+select * from zomato_dataset 
 -- Country data
 select * from country_code
 
