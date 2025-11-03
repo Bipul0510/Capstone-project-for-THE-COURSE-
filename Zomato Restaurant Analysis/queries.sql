@@ -1,4 +1,4 @@
---  CREATE A DATABASE
+--  Create a database
 CREATE DATABASE ZOMATO ;
 
 -- SELECT THE DATABASE
