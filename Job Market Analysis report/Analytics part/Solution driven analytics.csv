@@ -1,0 +1,4 @@
+Phase,Tool/File,Key Action & Insight
+1. Data Foundation,DDL_JOBS----Dataset creation.sql,"Defined the schema and populated initial data. Crucially, I engineered the salary_standardized column, converting hourly/yearly pay into a uniform metric for unbiased analysis."
+2. Data Transformation,Problem-solution query- (Part-1).sql & (Part-2).sql,Used advanced SQL to create analytical views: Segmented Average Standardized Salary by schedule_type and work_from_home status. Categorized all jobs into High/Medium/Low SalaryTiers. Identified potential Data/AI/ML roles using pattern matching on description tokens.
+3. Final Report,Job Market Analysis report.pbix,"Connected Power BI directly to the cleansed SQL data to build an interactive report, allowing users to drill down on trends by company, location, and salary tier."
