@@ -6,5 +6,4 @@ List of Projects:
 * Music store Analysis
 * restaurants Analysis 2025
 * Zomato Restaurant Analysis
-* 
-  
+
