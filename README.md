@@ -7,4 +7,3 @@ List of Projects:
 * restaurants Analysis 2025
 * Zomato Restaurant Analysis
 * 
-
